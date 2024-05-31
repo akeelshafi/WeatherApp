@@ -1,5 +1,10 @@
+Based on the provided `MainActivity` code for your Android weather application, here’s a comprehensive README.md file for your GitHub repository:
+
+---
 
 # Weather App
+
+![Weather App Logo](link-to-logo.png)
 
 > A simple Android weather application built with Kotlin, utilizing the OpenWeatherMap API to provide real-time weather data.
 
@@ -31,7 +36,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://https://github.com/akeelshafi/WeatherApp
+    git clone https://github.com/your-username/weather-app.git
     ```
 2. **Open the project in Android Studio:**
     - Start Android Studio and select "Open an existing project".
@@ -110,7 +115,7 @@ class MainActivity : AppCompatActivity() {
         // Update UI elements with weather data
     }
 }
-
+```
 ## Contributing
 
 Contributions are welcome! To contribute to this project, follow these steps:
@@ -127,7 +132,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- **Developer**: Akeel shafi
-- **Email**: akeelshafi20@.com
-- **Project Link**:https://github.com/akeelshafi/WeatherApp
+- **Developer**: Akeel
+- **Email**: your-email@example.com
+- **Project Link**: [https://github.com/your-username/weather-app](https://github.com/your-username/weather-app)
 
+---
+
+Feel free to customize this README further based on additional features or details about your project.
