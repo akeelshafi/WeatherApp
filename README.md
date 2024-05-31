@@ -2,8 +2,6 @@
 
 # Weather App
 
-![Weather App Logo](link-to-logo.png)
-
 > A simple Android weather application built with Kotlin, utilizing the OpenWeatherMap API to provide real-time weather data.
 
 ## Table of Contents
