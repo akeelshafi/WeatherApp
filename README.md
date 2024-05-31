@@ -1,5 +1,3 @@
-
-
 # Weather App
 
 > A simple Android weather application built with Kotlin, utilizing the OpenWeatherMap API to provide real-time weather data.
@@ -32,7 +30,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/akeelshafi/WeatherApp
+    git clone https://github.com/akeelshafi/weather-app.git
+
     ```
 2. **Open the project in Android Studio:**
     - Start Android Studio and select "Open an existing project".
