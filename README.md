@@ -1,6 +1,4 @@
-Based on the provided `MainActivity` code for your Android weather application, here’s a comprehensive README.md file for your GitHub repository:
 
----
 
 # Weather App
 
@@ -36,7 +34,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/akeelshafi/WeatherApp
     ```
 2. **Open the project in Android Studio:**
     - Start Android Studio and select "Open an existing project".
@@ -132,10 +130,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- **Developer**: Akeel
-- **Email**: your-email@example.com
-- **Project Link**: [https://github.com/your-username/weather-app](https://github.com/your-username/weather-app)
+- **Developer**: Akeel shafi
+- **Email**: akeelshafi20@gmail.com
+- **Project Link**:https://github.com/akeelshafi/WeatherApp
 
----
 
-Feel free to customize this README further based on additional features or details about your project.
